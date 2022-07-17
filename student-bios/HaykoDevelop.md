@@ -22,7 +22,7 @@ recontinue my jouney and hopefully nothing can stop me.
 
 ## **What i learned as a self taught developer.**
 
-1. HTML & CSS
+1. HTML & CSS.
    1. Basic HTML
    2. Basic CSS
    3. Applied Visual Design
@@ -30,7 +30,7 @@ recontinue my jouney and hopefully nothing can stop me.
    5. Responsive Web Design Principles
    6. CSS Flexbox
    7. CSS Grid
-2. JS
+2. JS.
    1. Basic JavaScript
    2. ES6
    3. Regular Expressions
