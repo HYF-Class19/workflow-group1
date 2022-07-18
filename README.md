@@ -6,5 +6,6 @@
 
 <!-- I'll need to add an image and some links -->
 
-[Github](https://github.com/BrianMunene96) | [bio](https://www.example.com) |
-[social](https://www.instagram.com/brajah_munene/?hl=en)
+[Github](https://github.com/BrianMunene96) |
+[bio](https://github.com/HYF-Class19/workflow-group1/blob/master/student-bios/brian.md)
+| [social](https://www.instagram.com/brajah_munene/?hl=en)
