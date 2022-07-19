@@ -4,7 +4,7 @@
 
 ## Brian Munene
 
-<!-- I'll need to add an image and some links -->
+![A picture of Brian in Keukenhof gardens](student-bios/Images/brianImage.jpeg)
 
 [Github](https://github.com/BrianMunene96) |
 [bio](https://github.com/HYF-Class19/workflow-group1/blob/master/student-bios/brian.md)
