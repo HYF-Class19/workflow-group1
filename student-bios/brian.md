@@ -47,6 +47,6 @@ The road ahead might be difficult, but as it is commonly said;
 
 ### Media files 📷
 
-![Brian pic in Keukenhof](Images/brianimage.jpeg)
+![Brian pic in Keukenhof](Images/brian.jpeg)
 
 > A colorful photo of me in Keukenhof Gardens 🌷
