@@ -6,16 +6,12 @@
     "goitom",
     "HackYourFuture",
     "HackYourFutureBelgium",
-
     "Hayko",
     "Melati",
     "Munene",
-  
-    "Verousca"
-
+    "Verousca",
     "Photoshop",
     "Zeynep"
-
   ],
   "ignorePaths": [
     "node_modules/**",
