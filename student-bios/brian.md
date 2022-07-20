@@ -44,3 +44,9 @@ The road ahead might be difficult, but as it is commonly said;
 ### Let's connect 📲
 
 [Instagram](https://www.instagram.com/brajah_munene/?hl=en)
+
+### Media files 📷
+
+![Brian pic in Keukenhof](pictures/brian.jpeg)
+
+> A colorful photo of me in Keukenhof Gardens 🌷
