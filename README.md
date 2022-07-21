@@ -50,5 +50,3 @@
 ## [V-Valkiriya](https://github.com/V-Valkiriya) | [Bio](https://github.com/HYF-Class19/home/blob/main/student-bios/V-Valkiriya.md)
 
 ![V-Valkiriya](https://avatars.githubusercontent.com/u/106891874?v=4)
-
-> > > > > > > d80de71153e5db8e8d765509357ae30d9bdf114e
